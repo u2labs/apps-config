@@ -1,0 +1,14 @@
+{
+  "baseFarmRate": "100000000000000000000",
+  "avatarMintingCost": "1000000000000000000",
+  "topUpAddress": {
+    "BSC": "0x",
+    "Sepolia": "0x"
+  },
+  "contracts": {
+    "socialPoint": "0xeE5327ff62F7F7145661dAb8AC33Ea2AdA1e9D64",
+    "erc1155Food": "0xeE5327ff62F7F7145661dAb8AC33Ea2AdA1e9D64",
+    "erc1155FarmBoosting": "0xafd3f2Fd80b5570A6D53E844817AE16b7286Bd7a",
+    "monkeyStake": "0x74539793Ca165B15dEEbB27ff3eB7d01c7283862"
+  }
+}

@@ -11,5 +11,6 @@
     "erc1155FarmBoosting": "0xafd3f2Fd80b5570A6D53E844817AE16b7286Bd7a",
     "monkeyStake": "0x30952678Dc5d53DBF79978c6c921D36049a69AfF",
     "gacha": "0x74539793Ca165B15dEEbB27ff3eB7d01c7283862"
-  }
+  },
+  "connectMessage": "I want to login on UG at ${time}. I accept the U2U Terms of Service https://unicornultra.xyz and I am at least 13 years old."
 }

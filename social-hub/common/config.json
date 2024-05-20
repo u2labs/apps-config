@@ -1,4 +1,5 @@
 {
+  "isUnderMaintenance": false,
   "baseFarmRate": "100000000000000000000",
   "avatarMintingCost": "1000000000000000000",
   "topUpAddress": {

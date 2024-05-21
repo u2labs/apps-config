@@ -10,5 +10,9 @@
     "erc1155Food": "0xeE5327ff62F7F7145661dAb8AC33Ea2AdA1e9D64",
     "erc1155FarmBoosting": "0xafd3f2Fd80b5570A6D53E844817AE16b7286Bd7a",
     "monkeyStake": "0x74539793Ca165B15dEEbB27ff3eB7d01c7283862"
+  },
+  "message" : {
+    "emptyTitle": "Chúc bạn may mắn lần sau",
+    "emptyImage": "https://ug-assets-dev.s3.ap-southeast-1.amazonaws.com/92fb77b2-e503-4fa1-8565-b9a61285e9e2-Death%201.png"
   }
 }

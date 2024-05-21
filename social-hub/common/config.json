@@ -14,8 +14,9 @@
     "gacha": "0x74539793Ca165B15dEEbB27ff3eB7d01c7283862"
   },
   "connectMessage": "I want to login on UG at ${time}. I accept the U2U Terms of Service https://unicornultra.xyz and I am at least 13 years old.",
+  "emptyImage": "https://ug-assets-dev.s3.ap-southeast-1.amazonaws.com/92fb77b2-e503-4fa1-8565-b9a61285e9e2-Death%201.png",
   "message" : {
-    "emptyTitle": "Better luck next time",
-    "emptyImage": "https://ug-assets-dev.s3.ap-southeast-1.amazonaws.com/92fb77b2-e503-4fa1-8565-b9a61285e9e2-Death%201.png"
+    "emptyGachaTitle": "Better luck next time",
+    "emptyGachaDesc": "Let's roll some more"
   }
 }

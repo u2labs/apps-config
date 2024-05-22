@@ -4,14 +4,14 @@
   "avatarMintingCost": "1000000000000000000",
   "topUpAddress": [
     {
-      "logo": "",
-      "address": "0x",
+      "logo": "https://ug-assets-dev.s3.ap-southeast-1.amazonaws.com/5a59a5f0-a66a-4422-995f-6d96691d5a3d-Brand%20-%2040x40.png",
+      "address": "0xB246603EF552D8372c4c91c5BAEf2Eed9c902fF4",
       "name": "u2u chain",
       "symbol": "U2U"
     },
     {
-      "logo": "",
-      "address": "0x",
+      "logo": "https://ug-assets-dev.s3.ap-southeast-1.amazonaws.com/84a05670-2ca6-4d1f-8399-4390762b28ca-BNB.png",
+      "address": "0xB246603EF552D8372c4c91c5BAEf2Eed9c902fF4",
       "name": "Sepolia",
       "symbol": "ETH"
     }

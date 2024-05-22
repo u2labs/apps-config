@@ -2,10 +2,20 @@
   "isUnderMaintenance": false,
   "baseFarmRate": "100000000000000000000",
   "avatarMintingCost": "1000000000000000000",
-  "topUpAddress": {
-    "BSC": "0x",
-    "Sepolia": "0x"
-  },
+  "topUpAddress": [
+    {
+      "logo": "",
+      "address": "0x",
+      "name": "u2u chain",
+      "symbol": "U2U"
+    },
+    {
+      "logo": "",
+      "address": "0x",
+      "name": "Sepolia",
+      "symbol": "ETH"
+    }
+  ],
   "contracts": {
     "socialPoint": "0xeE5327ff62F7F7145661dAb8AC33Ea2AdA1e9D64",
     "erc1155Food": "0x176581dBb0A5D0CcbB7395f2AAfD63E52e3936D7",

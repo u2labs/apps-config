@@ -30,5 +30,12 @@
   "message" : {
     "emptyGachaTitle": "Better luck next time",
     "emptyGachaDesc": "Let's roll some more"
+  },
+  "twitterMessage": {
+    "Like": "${id}, ${url}",
+    "Retweet": "${id}, ${url}",
+    "Reply": "${id}, ${url}",
+    "QuoteWithHashtag": "${id}, ${url}, ${hashtag}",
+    "ReplyWithKw": "${id}, ${url}, ${keyword}"
   }
 }
